@@ -1,0 +1,12 @@
+Package: miniPac
+Type: Package
+Title: miniPac
+Version: 1.0
+Date: 2015-01-13
+Author: Bryan
+Maintainer: Bryan A. Hanson <hanson@depauw.edu>
+Description: Test Package
+License: GPL-3
+Imports: R.utils
+NeedsCompilation: no
+Packaged: 2015-01-14 02:52:46 UTC; bryanhanson
